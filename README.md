@@ -58,4 +58,8 @@ To get started with this project, follow these steps:
 - Socket.IO: A real-time communication library for enabling chat features.
 - REST API Backend: The backend server and API endpoints for user authentication and account management.
 
+## Usage
+
+Once you've set up and configured the project, you can run it locally to test the chat application.
+Users can register, log in, and use the chat features in real-time.
 
